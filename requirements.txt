@@ -1,0 +1,8 @@
+chromadb
+cloudinary
+pymupdf
+pillow
+imagehash
+tiktoken
+google-generativeai
+open-clip-torch
